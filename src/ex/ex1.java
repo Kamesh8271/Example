@@ -6,6 +6,8 @@ public class ex1 {
 		
 		System.out.println("Kamesh");
 		System.out.println("tony");
+		
+		System.out.println("tony3");
 
 	}
 
