@@ -8,6 +8,7 @@ public class ex1 {
 		System.out.println("tojjny");
 		
 		System.out.println("tony3");
+		System.out.println("hfhf");
 
 	}
 
